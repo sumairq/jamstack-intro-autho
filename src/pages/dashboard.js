@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { navigate } from 'gatsby';
-import IdentityModal from 'react-netlify-identity-widget';
 import { Router } from '@reach/router'; 
+import IdentityModal from 'react-netlify-identity-widget';
 import Layout from '../components/layout';
 import Profile from '../components/profile';
 import RouteBase from '../components/route-base'
